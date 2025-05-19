@@ -26,4 +26,4 @@
     
 ## 作者
 
-- [作者主页](https://github.com/XINGJR)
+- [XINGJR](https://github.com/XINGJR)

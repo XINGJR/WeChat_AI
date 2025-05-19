@@ -1,0 +1,2 @@
+通过Python脚本实时监听微信消息并接收，调用AI模型Apk回复消息并发给用户
+需要的依赖：Python解释器，wxauto库,openai库

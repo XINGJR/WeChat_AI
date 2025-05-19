@@ -7,7 +7,7 @@
 
 #### 获取API_KEY
 
-- [@octokatherine](https://platform.deepseek.com/api_keys)
+- [获取api_key](https://platform.deepseek.com/api_keys)
 
 | 参数 | 类型     | 描述                |
 | :-------- | :------- | :------------------------- |
@@ -26,4 +26,4 @@
     
 ## 作者
 
-- [@octokatherine](https://github.com/XINGJR)
+- [作者主页](https://github.com/XINGJR)
